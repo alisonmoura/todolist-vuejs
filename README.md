@@ -13,3 +13,11 @@ yarn build
 ```
 
 to bundle your application
+
+Exemplo de código TS: 
+
+```typescript
+editar(context, index) {
+    context.commit('mutationIndiceEdicao', index);
+},
+```
