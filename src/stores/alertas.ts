@@ -2,7 +2,6 @@ import { Module } from 'vuex';
 
 const module:Module<any, any> = {
     namespaced: true,
-     // data -> state
      state: {
         snackbar: {
             message: '',
