@@ -7,6 +7,9 @@ const module: Module<any, any> = {
         tarefas: [],
         indiceEdicao: null
     },
+
+
+    
     mutations: {
         mutationTarefas(state, lista) {
             state.tarefas = lista;
