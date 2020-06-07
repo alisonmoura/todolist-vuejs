@@ -1,4 +1,6 @@
 # Todolist
 ## Vuejs 2 + TypeScript
 
-This project is a study case for `Vuejs 2` with `TypeScript` and `Webpack` for **building management**
+> This is project for study and practical purpose
+
+Project made with `Vuejs 2`, `TypeScript` and `Webpack` for study purpose.
