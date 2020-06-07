@@ -1,23 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# Todolist
+## Vuejs 2 + TypeScript
 
-This project has been created using **webpack scaffold**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
-
-Exemplo de código TS: 
-
-```typescript
-editar(context, index) {
-    context.commit('mutationIndiceEdicao', index);
-},
-```
+This project is a study case for `Vuejs 2` with `TypeScript` and `Webpack` for **building management**
